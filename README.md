@@ -35,4 +35,4 @@ AP (Average precision) is a popular metric in measuring the accuracy of object d
 
 SSD Mobile Net output the category of the detected objects and coordinates of there bounding rectangles offset (x,y,w,h)
 
-<img src="https://github.com/vishwas9699/Object-Detection-using-Deep-Learning/blob/main/README%20resource/5.png">[#]
+[img src="https://github.com/vishwas9699/Object-Detection-using-Deep-Learning/blob/main/README%20resource/5.png"](#)
