@@ -6,7 +6,7 @@ The TensorFlow object detection API is a software framework used for object dete
 
 ## CNN models used in Tensorflow Object Detection API
 
-(https://github.com/vishwas9699/Object-Detection-using-Deep-Learning/blob/main/README%20resource/0.png)[]
+<img src="https://github.com/vishwas9699/Object-Detection-using-Deep-Learning/blob/main/README%20resource/0.png">
 
 ### mAP (mean Average Precision)
 
@@ -22,3 +22,17 @@ AP (Average precision) is a popular metric in measuring the accuracy of object d
 
 3. Overlapping boxes are combined into a single bounding rectangle (Non Maximum Supression)
 <img src="https://github.com/vishwas9699/Object-Detection-using-Deep-Learning/blob/main/README%20resource/3.png">
+
+## SSD Mobile Net
+
+<img src="https://github.com/vishwas9699/Object-Detection-using-Deep-Learning/blob/main/README%20resource/4.png">
+
+### Input
+
+300x300 color Image (3@300x300)
+
+### Outputs
+
+SSD Mobile Net output the category of the detected objects and coordinates of there bounding rectangles offset (x,y,w,h)
+
+<img src="https://github.com/vishwas9699/Object-Detection-using-Deep-Learning/blob/main/README%20resource/5.png">
