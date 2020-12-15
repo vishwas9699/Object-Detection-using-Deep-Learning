@@ -36,3 +36,23 @@ AP (Average precision) is a popular metric in measuring the accuracy of object d
 SSD Mobile Net output the category of the detected objects and coordinates of there bounding rectangles offset (x,y,w,h)
 
 <img src="https://github.com/vishwas9699/Object-Detection-using-Deep-Learning/blob/main/README%20resource/5.png">
+
+## Download Links & Credits
+
+* [Download Tensorflow Object Detection API](https://github.com/tensorflow/models)
+
+## Installing the Tensorflow Object Detection API
+
+1. Download the tensorflow object detection api from [Github](https://github.com/tensorflow/models)
+2. Open the Anaconda Prompt and install the dependencies for windows,
+
+```
+pip install tensorflow
+pip install keras
+pip install opencv-python
+pip install Cython
+pip install contextlib2
+pip install pillow
+pip install lxml
+pip install jupyter
+```
