@@ -16,4 +16,4 @@ AP (Average precision) is a popular metric in measuring the accuracy of object d
 
 1. Generates the small segments in the input image
 
-![image.png](attachment:image.png)
+![image.png](https://github.com/vishwas9699/Object-Detection-using-Deep-Learning/blob/main/README%20resource/1.png)
