@@ -56,3 +56,8 @@ pip install pillow
 pip install lxml
 pip install jupyter
 ```
+3. Download the files from this repository
+4. Copy and paste ```protoc.exe``` file in the path ```models-master\research```
+5. Open the Commmand Prompt in ```models-master\research``` and copy and run the command included in ```protoc command.txt```
+6. Copy the files ```Object Detection - Custom Images and Video.ipynb``` & ```Object Detection - Live Video.ipynb``` into ```models-master\research```
+7. Run above codes and check
